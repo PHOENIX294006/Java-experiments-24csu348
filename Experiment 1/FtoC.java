@@ -1,5 +1,5 @@
-//Monish rao
-//24csu321
+//Aadi
+//24csu348
 import java.util.Scanner;
 class FtoC{
 	public static void main(String args[]){
@@ -10,4 +10,5 @@ class FtoC{
 		float c = (a-32)*(5f/9f);
 		System.out.print("Temperature in celsius = "+c);
 	}
+
 }
