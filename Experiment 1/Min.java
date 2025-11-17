@@ -1,5 +1,5 @@
-//Monish rao
-//24csu321
+//Aadi
+//24csu348
 import java.util.Scanner;
 
 class Min {
@@ -20,3 +20,4 @@ class Min {
         System.out.println("Days  = " + days);
     }
 }
+
