@@ -1,5 +1,5 @@
-//Monish rao
-//24csu321
+//Aadi
+//24csu348
 import java.util.Scanner;
 class Calculator
 {
@@ -37,4 +37,5 @@ class Calculator
 	System.out.print("\nDivision of two numbers = 1");
 	}
 	}
+
 }
